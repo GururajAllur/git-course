@@ -3,3 +3,9 @@ Service has been enabled
 moving local to remote 
 
 adding tag to service.xt file 
+
+
+creating avatar for user
+
+
+creating avatar version 2.0

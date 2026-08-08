@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 User has some datadmin 
+=======
+User has some data
+>>>>>>> feature1
