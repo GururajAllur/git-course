@@ -2,4 +2,4 @@ Service has been enabled
 
 moving local to remote 
 
-adding tga to service.xt file 
+adding tag to service.xt file 
